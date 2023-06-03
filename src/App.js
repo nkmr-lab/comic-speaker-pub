@@ -155,7 +155,7 @@ function App() {
             <p>本データセットを使用した論文を執筆される際には，下記文献を引用ください．</p>
             <ul>
               <li>阿部 和樹, 中村 聡史. コミックのセリフと発話者対応付けデータセットの構築とその困難性, 第3回 コミック工学研究会, pp.7-12, 2020.</li>
-              <li>櫻井 翼, 伊藤 理紗, 阿部 和樹, 中村 聡史. 漫画のセリフと発話者対応付けデータセットの構築とその分析, 第6回 コミック工学研究会, pp.11-17, 2021.</li>
+              <li>Tsubasa Sakurai, Risa Ito, Kazuki Abe, Satoshi Nakamura. A Method to Annotate Who Speaks a Text Line in Manga and Speaker-Line Dataset for Manga109, The 5th International Workshop on coMics ANalysis, Processing and Understanding, 2022.</li>
             </ul>
           </div>
         </Row>
@@ -164,8 +164,8 @@ function App() {
             <h1>リンク</h1>
             <ui>
               <li><a href="http://www.manga109.org" target="_blank">Manga109 - Japanese Manga Dataset -</a></li>
-              <li><a href="https://dl.nkmr-lab.org/papers/208" target="_blank">漫画における台詞発話者の自動判定に向けた技術的困難性による整理とデータセット構築手法の検討 - 明治大学 中村聡史研究室 論文レポジトリ</a></li>
-              <li><a href="https://exam-speaker.nkmr.io/demo" target="_blank">発話者アノテーション付与・デモページ</a></li>
+              <li><a href="https://dl.nkmr-lab.org/papers/240" target="_blank">コミックのセリフと発話者対応付けデータセットの構築とその困難性 - 明治大学 中村聡史研究室 論文レポジトリ</a></li>
+              <li><a href="https://dl.nkmr-lab.org/papers/403" target="_blank">A Method to Annotate Who Speaks a Text Line in Manga and Speaker-Line Dataset for Manga109 - 明治大学 中村聡史研究室 論文レポジトリ</a></li>
             </ui>
           </div>
         </Row>
