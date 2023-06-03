@@ -155,7 +155,7 @@ function App() {
             <p>本データセットを使用した論文を執筆される際には，下記文献を引用ください．</p>
             <ul>
               <li>阿部 和樹, 中村 聡史. コミックのセリフと発話者対応付けデータセットの構築とその困難性, 第3回 コミック工学研究会, pp.7-12, 2020.</li>
-              <li>櫻井 翼, 伊藤 理紗, 阿部 和樹, 中村 聡史. 漫画のセリフと発話者対応付けデータセットの構築とその分析, 第6回 コミック工学研究会, pp.11-17, 2021.</li>
+              <li>Tsubasa Sakurai, Risa Ito, Kazuki Abe, Satoshi Nakamura. A Method to Annotate Who Speaks a Text Line in Manga and Speaker-Line Dataset for Manga109, The 5th International Workshop on coMics ANalysis, Processing and Understanding, 2022.</li>
             </ul>
           </div>
         </Row>
